@@ -14,7 +14,7 @@
 .header {
   margin: 0px;
   min-height: 668px;
-  min-height: 100vh;
+  height: 100vh;
   padding: 10px;
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
