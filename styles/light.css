@@ -6,7 +6,7 @@
 
 :root.theme-light {
   --bg-image: url("../images/cover-image-light.png");
-  --bg-color: #ffc2e6;
+  --bg-color: #fff1f7;
   --title-color: #ffc2e6;
   --text-color: #353430;
   --bg-text-color: #ff8dcb;
@@ -16,6 +16,7 @@
   --accent-color: #353430;
   --shadow-color: #ff0070;
   --link-shadow: #ff8dcb;
+  --button-hover: #32312D66;
 }
 
 @media (prefers-color-scheme: light) {
@@ -31,5 +32,6 @@
     --accent-color: #353430;
     --shadow-color: #ff0070;
     --link-shadow: #ff8dcb;
+    --button-hover: #32312D66;
   }
 }

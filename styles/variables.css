@@ -18,5 +18,6 @@
   --text-weight: bold;
   --corner-color: #ff0070;
   --shadow-color: #ff0070;
-  --link-shadow: #ff8dcb;
+  --link-shadow: #FF0070;
+  --button-hover: #FF007066;;
 }
