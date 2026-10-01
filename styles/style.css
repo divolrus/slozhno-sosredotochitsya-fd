@@ -247,6 +247,7 @@
 .section__image {
   display: block;
   inline-size: 100%;
+  object-fit: cover;
 }
 
 .section__image-sunset {
@@ -378,7 +379,6 @@
     block-size: 100%;
     min-inline-size: 229px;
     inline-size: 100%;
-    object-fit: cover;
   }
 
   .section__image-sunset {
